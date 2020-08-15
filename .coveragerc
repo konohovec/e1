@@ -1,0 +1,6 @@
+[run]
+source = .
+omit =
+        *tests*
+        *env*
+        *__pycache__*
