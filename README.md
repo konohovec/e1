@@ -1,4 +1,3 @@
-Как запустить
 ```
 git clone https://github.com/konohovec/e1.git
 cd e1
